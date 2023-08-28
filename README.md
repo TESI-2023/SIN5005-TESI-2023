@@ -16,9 +16,6 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 ## Métricas
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Heroku
 * TODO: Adicionar link
 
@@ -32,7 +29,7 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 ## Execução
 
-*Rodar `bundle install` antes de executar o app ou testes*
+**Rodar `bundle install` antes de executar o app ou testes**
 
 Para rodar o app:
 `rails server`
@@ -56,7 +53,7 @@ Para rodar os testes do Cucumber
 [forks-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/network/members
 [open-issues-shield]: https://img.shields.io/github/issues/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [open-issues-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/issues
-[closed-issues-shield]: https://img.shields.io/github/issues/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
+[closed-issues-shield]: https://img.shields.io/github/issues-closed/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [closed-issues-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/issues
 [open-pr-shield]: https://img.shields.io/github/issues-pr/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [open-pr-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/pulls
