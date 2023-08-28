@@ -1,0 +1,14 @@
+Started GET "/" for ::1 at 2023-08-27 21:04:12 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /var/lib/gems/3.0.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/3.0.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.3ms | Allocations: 931)
+Completed 200 OK in 30ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 10744)
+
+
+Started GET "/" for ::1 at 2023-08-27 22:15:29 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /var/lib/gems/3.0.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /var/lib/gems/3.0.0/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.6ms | Allocations: 850)
+Completed 200 OK in 14ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 7950)
+
+
