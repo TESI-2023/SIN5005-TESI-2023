@@ -58,9 +58,9 @@ Para rodar os testes do Cucumber
 [open-issues-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/issues
 [closed-issues-shield]: https://img.shields.io/github/issues/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [closed-issues-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/issues
-[open-pr-shield]: https://img.shields.io/github/issues-pr/{username}/{repo-name}.svg?style=for-the-badge
+[open-pr-shield]: https://img.shields.io/github/issues-pr/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [open-pr-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/pulls
-[closed-pr-shield]: https://img.shields.io/github/issues-pr-closed/{username}/{repo-name}.svg?style=for-the-badge
+[closed-pr-shield]: https://img.shields.io/github/issues-pr-closed/TESI-2023/SIN5005-TESI-2023.svg?style=for-the-badge
 [closed-pr-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/pulls
 [node-shield]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 [node-url]: https://nodejs.org/en
