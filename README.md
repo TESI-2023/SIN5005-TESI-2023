@@ -19,9 +19,8 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 [![Test Coverage][code-climate-test-coverage-shield]][code-climate-test-coverage-url]
 
-## Heroku
+## Deploy
 [![Heroku][heroku-shield]][heroku-url]
-* URL: 
 
 ## Pivotal Tracker
 * TODO: Adicionar link
