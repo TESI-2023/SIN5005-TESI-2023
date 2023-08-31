@@ -15,6 +15,9 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 [![Pull Requests][closed-pr-shield]][closed-pr-url]
 
 ## Métricas
+[![Maintainability][code-climate-maintainability-shield]][code-climate-maintainability-url]
+
+[![Test Coverage][code-climate-test-coverage-shield]][code-climate-test-coverage-url]
 
 ## Heroku
 [![Heroku][heroku-shield]][heroku-url]
@@ -71,3 +74,7 @@ Para rodar os testes do Cucumber
 [GetStartRoR-url]: https://www.youtube.com/watch?v=LD49oT09jHs
 [heroku-url]: https://sin5005-tesi-2023-95e97395cf1b.herokuapp.com/
 [heroku-shield]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[code-climate-maintainability-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/maintainability
+[code-climate-maintainability-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/maintainability
+[code-climate-test-coverage-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/test_coverage
+[code-climate-test-coverage-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/test_coverage
