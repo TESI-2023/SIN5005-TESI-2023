@@ -19,8 +19,8 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 [![Test Coverage][code-climate-test-coverage-shield]][code-climate-test-coverage-url]
 
-## Heroku
-* TODO: Adicionar link
+## Deploy
+[![Heroku][heroku-shield]][heroku-url]
 
 ## Pivotal Tracker
 * TODO: Adicionar link
@@ -31,6 +31,8 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 * [![Ruby on Rails][ror-shield]][ror-url]
 
 ## Execução
+
+[Ruby on rails - how I get started][GetStartRoR-url]
 
 **Rodar `bundle install` antes de executar o app ou testes**
 
@@ -68,6 +70,9 @@ Para rodar os testes do Cucumber
 [ruby-url]: https://www.ruby-lang.org/pt/
 [ror-shield]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [ror-url]: https://rubyonrails.org/
+[GetStartRoR-url]: https://www.youtube.com/watch?v=LD49oT09jHs
+[heroku-url]: https://sin5005-tesi-2023-95e97395cf1b.herokuapp.com/
+[heroku-shield]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 [code-climate-maintainability-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/maintainability
 [code-climate-maintainability-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/maintainability
 [code-climate-test-coverage-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/test_coverage
