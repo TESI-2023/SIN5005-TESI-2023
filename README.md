@@ -15,6 +15,9 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 [![Pull Requests][closed-pr-shield]][closed-pr-url]
 
 ## Métricas
+[![Maintainability][code-climate-maintainability-shield]][code-climate-maintainability-url]
+
+[![Test Coverage][code-climate-test-coverage-shield]][code-climate-test-coverage-url]
 
 ## Heroku
 * TODO: Adicionar link
@@ -65,3 +68,7 @@ Para rodar os testes do Cucumber
 [ruby-url]: https://www.ruby-lang.org/pt/
 [ror-shield]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [ror-url]: https://rubyonrails.org/
+[code-climate-maintainability-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/maintainability
+[code-climate-maintainability-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/maintainability
+[code-climate-test-coverage-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/test_coverage
+[code-climate-test-coverage-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/test_coverage
