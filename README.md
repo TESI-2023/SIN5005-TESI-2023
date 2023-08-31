@@ -17,7 +17,8 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 ## Métricas
 
 ## Heroku
-* URL: https://sin5005-tesi-2023-95e97395cf1b.herokuapp.com/
+[![Heroku][heroku-shield]][heroku-url]
+* URL: 
 
 ## Pivotal Tracker
 * TODO: Adicionar link
@@ -68,3 +69,5 @@ Para rodar os testes do Cucumber
 [ror-shield]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [ror-url]: https://rubyonrails.org/
 [GetStartRoR-url]: https://www.youtube.com/watch?v=LD49oT09jHs
+[heroku-url]: https://sin5005-tesi-2023-95e97395cf1b.herokuapp.com/
+[heroku-shield]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
