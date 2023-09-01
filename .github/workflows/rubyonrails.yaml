@@ -40,11 +40,11 @@ jobs:
 
       # Add or replace database setup steps here
       - name: Set up database schema
-        run: bin/rails db:schema:load
+        run: ../tesi-app/bin/rails db:schema:load
 
       # Add or replace test runners here
       - name: Run tests
-        run: bin/rake
+        run: ../tesi-app/bin/rake
 
   lint:
     runs-on: ubuntu-latest
@@ -60,14 +60,14 @@ jobs:
 
       # Add or replace any other lints here
       - name: Security audit dependencies
-        run: bin/bundler-audit --update
+        run: ../tesi-app/bin/bundler-audit --update
 
       - name: Security audit application code
-        run: bin/brakeman -q -w2
+        run: ../tesi-app/bin/brakeman -q -w2
 
       - name: Lint Ruby files
         run: |
-          bin/rubocop --parallel
-          bin/stylelint
-          bin/prettier
-          bin/eslint
+          ../tesi-app/bin/rubocop --parallel
+          ../tesi-app/bin/stylelint
+          ../tesi-app/bin/prettier
+          ../tesi-app/bin/eslint
