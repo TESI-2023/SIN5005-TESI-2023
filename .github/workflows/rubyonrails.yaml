@@ -35,7 +35,7 @@ jobs:
       - name: Setup Ruby and install gems
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
-          ruby-verion: '3.2.2'
+          ruby-version: '3.2.2'
           bundler-cache: true
 
       # Add or replace database setup steps here
@@ -56,7 +56,7 @@ jobs:
         uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fcf # v1.146.0
         with:
           bundler-cache: true
-          ruby-verion: '3.2.2'
+          ruby-version: '3.2.2'
 
       # Add or replace any other lints here
       - name: Security audit dependencies
