@@ -9,12 +9,16 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
+
 [![Issues][open-issues-shield]][open-issues-url]
 [![Issues][closed-issues-shield]][closed-issues-url]
+
 [![Pull Requests][open-pr-shield]][open-pr-url]
 [![Pull Requests][closed-pr-shield]][closed-pr-url]
 
 ## Métricas
+[![Ruby Verify][github-actions-verify-main-shield]][github-actions-verify-url]
+
 [![Maintainability][code-climate-maintainability-shield]][code-climate-maintainability-url]
 
 [![Test Coverage][code-climate-test-coverage-shield]][code-climate-test-coverage-url]
@@ -32,7 +36,7 @@ A aplicação facilitará para usuários conseguirem focar nos seus treinos e pa
 
 ## Execução
 
-[Ruby on rails - how I get started][GetStartRoR-url]
+[Ruby on rails - how I get started][get-started-ror-url]
 
 **Rodar `bundle install` antes de executar o app ou testes**
 
@@ -70,10 +74,12 @@ Para rodar os testes do Cucumber
 [ruby-url]: https://www.ruby-lang.org/pt/
 [ror-shield]: https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white
 [ror-url]: https://rubyonrails.org/
-[GetStartRoR-url]: https://www.youtube.com/watch?v=LD49oT09jHs
+[get-started-ror-url]: https://www.youtube.com/watch?v=LD49oT09jHs
 [heroku-url]: https://sin5005-tesi-2023-95e97395cf1b.herokuapp.com/
 [heroku-shield]: https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 [code-climate-maintainability-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/maintainability
 [code-climate-maintainability-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/maintainability
 [code-climate-test-coverage-shield]: https://api.codeclimate.com/v1/badges/fb7beacaf98f35b86910/test_coverage
 [code-climate-test-coverage-url]: https://codeclimate.com/github/TESI-2023/SIN5005-TESI-2023/test_coverage
+[github-actions-verify-main-shield]: https://github.com/TESI-2023/SIN5005-TESI-2023/actions/workflows/rubyonrails.yaml/badge.svg
+[github-actions-verify-url]: https://github.com/TESI-2023/SIN5005-TESI-2023/actions
