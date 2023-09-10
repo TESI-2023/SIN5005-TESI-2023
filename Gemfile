@@ -45,6 +45,7 @@ gem "bootsnap", require: false
 gem "rspec-rails"
 gem "cucumber"
 gem 'rails_12factor'
+gem "cowsay"
 
 # Use Sass to process CSS
 # gem "sassc-rails"

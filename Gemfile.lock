@@ -71,6 +71,7 @@ GEM
       msgpack (~> 1.2)
     builder (3.2.4)
     concurrent-ruby (1.2.2)
+    cowsay (0.3.0)
     crass (1.0.6)
     cucumber (8.0.0)
       builder (~> 3.2, >= 3.2.4)
@@ -243,6 +244,7 @@ PLATFORMS
 
 DEPENDENCIES
   bootsnap
+  cowsay
   cucumber
   debug
   importmap-rails
