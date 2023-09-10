@@ -105,6 +105,11 @@ m = Module.new do
   rescue StandardError, LoadError => e
     e
   end
+  begin
+    require 'feature/homepage'
+  rescue LoadError => e
+    raise e unless ENV['RAILS_ENV'] == "production"
+  end
 end
 
 m.load_bundler!
