@@ -12,3 +12,17 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 14ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 7950)
 
 
+Started GET "/" for 127.0.0.1 at 2023-09-10 19:02:56 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/krysthianmartins/.gem/ruby/3.2.2/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/krysthianmartins/.gem/ruby/3.2.2/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 661)
+Completed 200 OK in 21ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 7575)
+
+
+Started GET "/" for 127.0.0.1 at 2023-09-10 19:06:41 -0300
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/krysthianmartins/.gem/ruby/3.2.2/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/krysthianmartins/.gem/ruby/3.2.2/gems/railties-7.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 513)
+Completed 200 OK in 10ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4394)
+
+
