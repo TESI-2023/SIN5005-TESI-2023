@@ -106,6 +106,8 @@ GEM
     ffi (1.15.5)
     globalid (1.1.0)
       activesupport (>= 5.0)
+    heroku-deflater (0.6.3)
+      rack (>= 1.4.5)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     importmap-rails (1.2.1)
@@ -148,6 +150,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.15.4-x86_64-linux)
       racc (~> 1.4)
+    pg (1.5.4)
     puma (5.6.7)
       nio4r (~> 2.0)
     racc (1.7.1)
@@ -247,8 +250,10 @@ DEPENDENCIES
   cowsay
   cucumber
   debug
+  heroku-deflater
   importmap-rails
   jbuilder
+  pg
   puma (~> 5.0)
   rails (~> 7.0.7, >= 7.0.7.2)
   rails_12factor
